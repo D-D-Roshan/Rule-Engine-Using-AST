@@ -27,8 +27,6 @@ This application is a rule engine that determines user eligibility based on attr
 
 - **Tree Visualization:** Define or Combine Rule would should show Tree Representation.
 
-## Preview Video
-<src="">
 
 ## Tech Stack
 
